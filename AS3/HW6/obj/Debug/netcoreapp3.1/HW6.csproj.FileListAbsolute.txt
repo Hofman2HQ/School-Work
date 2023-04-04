@@ -1,0 +1,14 @@
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.csproj.AssemblyReference.cache
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.AssemblyInfoInputs.cache
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.AssemblyInfo.cs
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.csproj.CoreCompileInputs.cache
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\bin\Debug\netcoreapp3.1\HW6.exe
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\bin\Debug\netcoreapp3.1\HW6.deps.json
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\bin\Debug\netcoreapp3.1\HW6.runtimeconfig.json
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\bin\Debug\netcoreapp3.1\HW6.runtimeconfig.dev.json
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\bin\Debug\netcoreapp3.1\HW6.dll
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\bin\Debug\netcoreapp3.1\HW6.pdb
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.dll
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.pdb
+C:\Users\Eliad Hofman\source\repos\HW6\HW6\obj\Debug\netcoreapp3.1\HW6.genruntimeconfig.cache
